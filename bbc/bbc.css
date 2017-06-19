@@ -1,0 +1,328 @@
+#topwbar {
+                width: 1000px;
+                margin: 0 auto;
+                height: 40px;
+                
+            }
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: Helvetica, Arial, sans-serif;
+            }
+          
+            #logo {
+                float: left;
+                margin-top: 8px;
+                margin-right: 8px;
+                
+            }
+            
+            .topbar-section {
+                float: left;
+                border-left: 1px #CCCCCC solid;
+                height: 80%;
+                padding-left: 5px;
+                padding-bottom: 
+                
+            }
+            
+            #sign-in {
+                position: relative;
+                top: -7px;
+                width: 25px;
+                margin:6px;
+                float: left;
+                
+            }
+            #signin-text {
+                font-weight: bold;
+                font-size: 90%;
+                position: relative;
+                padding-right: 75px;
+                    
+            }
+            .bar-text {
+                font-weight: bold;
+                font-size: 90%;
+                position: relative;
+                padding: 10px 10px 1px 10px;
+                
+                
+                
+            }
+            .topbar-section2 {
+                float: left;
+                border-left: 1px #CCCCCC solid;
+                height: 100%;
+                padding-left: 10px
+            }
+            .arrow {
+                position: relative;
+                padding-left: 30px;
+                float: right;
+                
+                
+                
+            }
+            .search {
+                position: relative;
+                height: 20px;
+                width: 200px;
+            
+            }
+            #searchbox {
+                background-color: #E4E4E4;
+                border: none;
+                font-weight: bold;
+                font-size: 14px;
+                padding: 5px;
+                margin: 0px 0px 5px 0px;
+                float: left;
+                
+                
+            }
+            #search-glass {
+                height: 27px;
+                padding-top: -1px
+            }
+            .clear {
+                clear: both;
+            }
+            #menu-bar-container {
+                background-color: #BB1919;
+                width: 100%;
+                height: 70px;
+                
+            }
+            h1 {
+                padding: 0;
+                margin: 0 auto;
+                color: white;
+                font-size: 40px;
+                font-weight: normal;
+                padding-top: 10px;
+                padding-left: 265px
+                
+            }
+            #searchbox2 {
+                float: right;
+                width: 170px;
+                color: white;
+                margin-right: 30px;
+                margin-top: -40px;
+                border: 1px #BB4545 solid;
+                padding: 5px 45px 5px 5px;
+            }
+            #searchbox2 a {
+                color: white;
+                text-decoration: none;
+                font-size: 20px;
+                position: relative;
+                
+            }
+            #searchbox2 a:hover {
+                text-decoration: underline;
+            }
+            #searchbox2 img {
+                position: relative;
+                height: 20px;
+                width: 20px;
+                top: 2px;
+                
+            }
+            #third-menu-cont {
+                background-color: #A91717;
+                width: 100%;
+                
+            }
+            #third-menu {
+                width: 1000px;
+                margin: 0 auto;
+                height: 40px;
+            }
+            #third-menu a {
+                color: white;
+                text-decoration: none;
+                position: relative;
+                top: 9px;
+                font-size: 14px;
+                padding: 0 10px;
+                border-right: 1px solid #BB4545;
+            }
+            #third-menu a:hover {
+                text-decoration: underline;
+            }
+            .no-border {
+                border: none !important;
+            }
+            #down-arrow {
+                height: 12px;
+                position: relative;
+                top: 10px;
+                padding-left: -5px
+                
+            }
+            #page-container {
+                width: 1000px;
+                margin: 0 auto;
+            }
+            
+            h2 {
+                font-weight: normal;
+                margin-top: 10px;
+                font-size: 20px;
+                width: 105px;
+                border-bottom: 5px #BB1919 solid;
+            }
+            h3 a {
+                color: #5a5a5a;
+                font-size: 35px;
+                text-decoration: none;
+                
+                
+            }
+            h3 a:hover {
+                color: #1167A8;
+            }
+            #article-summ {
+                color: #5a5a5a;
+                float: left;
+                width: 250px;
+            
+            }
+            .clock {
+                height:20px;
+                position: relative;
+                top: 5px;
+                
+                
+            }
+            #topic-link {
+                text-decoration: none;
+                color: #A91717;
+                font-size: 14px
+            }
+            #article-summ a:hover {
+                color: #1167A8;
+            }
+            .bar {
+                font-size: 14px;
+                color: #9E9E9E;
+            }
+            #article-cont {
+                float: left;
+                width: 670px;
+                border-right: 1px solid #CCCCCC;
+            }
+            #main-image {
+                width: 420px;
+            }
+            #art-hr {
+                border-color: #A91717;
+                width: 50px
+            }
+            .topic-link {
+                color: black;
+                text-decoration: none;
+                
+            }
+            
+            #side-link-cont {
+                margin-left: 20px;
+                float: right;
+                width: 325px;
+                position: relative;
+                bottom: 240px
+                
+            }
+            h4 {
+                font-weight: normal;
+                font-size: 20px;
+                float: left;
+                position: relative;
+                bottom: 35px
+                
+                
+            }
+            #border {
+                float: left;
+                padding-right: 8px;
+                padding-left: 5px;
+                position: relative;
+                top: -15px
+                
+            }
+            #side-image {
+                float: left;
+                margin-right: 40px;
+                position: relative;
+                top: 25px;
+                left: -120px
+            }
+            .links {
+                color: black;
+                text-decoration: none;
+                font-weight: bold;
+                position: relative;
+                top: 18px
+                
+            }
+            
+            .links:hover {
+                color: #1167A8;
+            }
+            
+            .side-article {
+                float: right;
+                width: 165px;
+                position: relative;
+                bottom: 89px;
+                left: 5px
+                
+            }
+             .links2{
+                color: black;
+                text-decoration: none;
+                font-weight: bold;
+                position: relative;
+                top: -98px
+                
+            }
+            
+            .links2:hover {
+                color: #1167A8;
+            }
+            #side-image2 {
+                float: left;
+                margin-right: 40px;
+                position: relative;
+                top: -90px;
+                left: -5px;
+            }
+            .dates {
+                position: relative;
+                bottom: 110px;
+            }
+            .links3{
+                color: black;
+                text-decoration: none;
+                font-weight: bold;
+                position: relative;
+                top: -198px
+                
+            }
+            
+            .links3:hover {
+                color: #1167A8;
+            }
+            #side-image3 {
+                float: left;
+                margin-right: 40px;
+                position: relative;
+                top: -190px;
+                left: 20px;
+            }
+            .dates2 {
+                position: relative;
+                top: -215px;
+            }
